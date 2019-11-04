@@ -23,6 +23,7 @@ function App() {
             <div className="away__score">32</div>
           </div>
         </div>
+        
         <BottomRow />
       </section>
       <section className="buttons">
