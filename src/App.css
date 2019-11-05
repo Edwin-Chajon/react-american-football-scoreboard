@@ -6,7 +6,7 @@
 .scoreboard {
   width: 58%;
   margin: 10rem auto;
-  background-color: #0b5402;
+  background-color: #0a3972;
   color: white;
   border-radius: 0.5rem;
   margin-top: 10rem;
@@ -38,7 +38,7 @@
 }
 
 .away {
-  background-color: #af750a;
+  background-color: #f0d433;
 }
 
 .home__name,
@@ -66,7 +66,8 @@
 .timer {
   font-family: "Ozone";
   font-size: 9rem;
-  padding: 2rem;
+  padding: 3rem;
+  max-height:12rem;
   text-align: center;
   background-color: var(--black);
   border: 2px solid white;
@@ -77,7 +78,7 @@
   display: flex;
   justify-content: space-around;
   place-items: center;
-  height: 20rem;
+  height: 25rem;
 }
 
 .down,
